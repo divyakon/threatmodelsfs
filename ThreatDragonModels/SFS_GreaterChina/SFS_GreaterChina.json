@@ -1,11 +1,18 @@
 {
   "summary": {
     "title": "SFS_GreaterChina",
-    "owner": "Divya Kondabathula"
+    "owner": "Divya Kondabathula",
+    "description": "Sharing order information"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "data_flow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Divya Kondabathula"
   }
 }
